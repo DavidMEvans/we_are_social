@@ -1,0 +1,18 @@
+[
+{
+    "fields": {
+        "name": "General",
+        "description": "<p><span style=\"font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;\">sdssdsfd</span></p>"
+    },
+    "model": "threads.subject",
+    "pk": 1
+},
+{
+    "fields": {
+        "name": "Support",
+        "description": "<p><span style=\"font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;\">dsdsd</span></p>"
+    },
+    "model": "threads.subject",
+    "pk": 2
+}
+]
